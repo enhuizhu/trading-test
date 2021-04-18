@@ -8,8 +8,6 @@ def getPath(path):
   return 'https://api.uat.b2c2.net/' + path
 
 def get(url):
-  print('url is:')
-  print(getPath(url))
   return requests.get(getPath(url), headers)
 
 def post(url, data):
