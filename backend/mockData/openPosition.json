@@ -1,0 +1,14 @@
+[
+  {
+    "instrument": "BTCUSD.CFD",
+    "side": "buy",
+    "avg_entry_price": "18988.1500000",
+    "agg_position": "30.1000000"
+  },
+  {
+    "instrument": "ETHUSD.CFD",
+    "side": "sell",
+    "avg_entry_price": "850.5500000",
+    "agg_position": "20.1000000"
+  }
+  ]
